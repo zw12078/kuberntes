@@ -1,3 +1,16 @@
-cephfs-provisioner
-cordons
-elasticsearch
+
+需要再次验证
+
+  
+  flannel-cni/
+  
+        hyperkube/
+--------------
+etcd之后还没构建完成
+   
+
+
+
+      
+
+  
